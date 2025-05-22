@@ -46,9 +46,17 @@ Predict whether an employee is likely to leave the organization based on histori
 ---
 
 ## Dashboard Snapshots:
-![Attrition Overview](Dashboard_Page_1.png)
-![Attrition & Salary Analysis](Dashboard_Page_2.png)
-![Manager KPIs](Dashboard_Page_3.png)
+## 📊 Power BI Dashboard Screenshots
+
+### 1. Attrition Overview
+![Attrition Overview](https://github.com/Ashkp-dotcom/Employee-Attrition-Project/blob/main/Dashboard_Page1_Attrition_Overview.png?raw=true)
+
+### 2. Salarly Analysis
+![Attrition Analysis](https://github.com/Ashkp-dotcom/Employee-Attrition-Project/blob/main/Dashboard_Page2_Salarly_Analysis.png?raw=true)
+
+### 3. Manager KPIs
+![Department-wise Attrition](https://github.com/Ashkp-dotcom/Employee-Attrition-Project/blob/main/Dashboard_Page3_Manager_KPIs.png?raw=true)
+
 
 ---
 
